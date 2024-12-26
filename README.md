@@ -24,6 +24,10 @@
 * Images
 * Raw data
 
+* __Live Link__* <br/>
+<b> https://resumebuilder199.netlify.app/</b>
+
+
 ## Pages
 * Home (Resume Templates) <br/> -Choose one from the available templates &amp; <br/> -Navigated to details filling page 
 * My Resumes
